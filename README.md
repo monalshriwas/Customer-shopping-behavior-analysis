@@ -2,7 +2,7 @@
 
 End-to-end customer behavior analysis using SQL, Python, and Power BI with business-focused KPIs and dashboards.
 
-#Project Overview
+# Project Overview
 
 - This project analyzes customer shopping behavior to uncover insights related to revenue performance, purchasing patterns, and customer satisfaction.
 - The analysis follows an end-to-end data analytics workflow using Python for data cleaning & EDA, SQL for analysis, and Power BI for visualization.
