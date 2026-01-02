@@ -7,8 +7,6 @@ End-to-end customer behavior analysis using SQL, Python, and Power BI with busin
 - This project analyzes customer shopping behavior to uncover insights related to revenue performance, and customer satisfaction.
 - The analysis follows an end-to-end data analytics workflow using Python for data cleaning & EDA, SQL for analysis, and Power BI for visualization.
 
-The goal is to demonstrate practical analytics skills and business-oriented decision-making using real-world style data.
-
 # Business Objective
 
 - To help stakeholders answer key questions such as:
@@ -124,15 +122,9 @@ An interactive Power BI dashboard was built to present insights clearly and effe
  
 - Subscription vs non-subscription comparison
  
-- Clean and minimal visual design
- 
-- Business-focused storytelling
-
 # Key Insights
 
 - Average order value and revenue per customer are identical 
-
-- Certain product categories contribute disproportionately to overall revenue
 
 - Subscribed customers account for a higher share of revenue
 
