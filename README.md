@@ -130,7 +130,7 @@ An interactive Power BI dashboard was built to present insights clearly and effe
 
 # Key Insights
 
-- Average order value and revenue per customer are identical due to single-order granularity
+- Average order value and revenue per customer are identical 
 
 - Certain product categories contribute disproportionately to overall revenue
 
