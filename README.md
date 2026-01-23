@@ -9,7 +9,7 @@ End-to-end customer behavior analysis using SQL, Python, and Power BI with busin
 
 # Business Objective
 
-- To help stakeholders answer key questions such as:
+ To help stakeholders answer key questions such as:
 
 - How much revenue is generated?
 
